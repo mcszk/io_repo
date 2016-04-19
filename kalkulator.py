@@ -1,2 +1,2 @@
-def calculateNothing():
-	pass
+def calculateSomething(a, b):
+	return a + b
