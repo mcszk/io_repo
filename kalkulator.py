@@ -5,3 +5,9 @@ def calculateSomething(dzialanie, a, b):
 		return a*b
 	else:
 		return None
+<<<<<<< HEAD
+=======
+		
+def developingOtherCal():
+	pass
+>>>>>>> kalkulator_dev
